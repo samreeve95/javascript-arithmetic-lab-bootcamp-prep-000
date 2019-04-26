@@ -33,4 +33,7 @@ function makeInt(a)
   return parseInt(a);
 }
 
-function 
+function preserveDecimal(a)
+{
+  return parseFloat(a);
+}
