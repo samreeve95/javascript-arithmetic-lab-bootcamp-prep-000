@@ -32,4 +32,4 @@ function makeInt(a)
 {
   return parseInt(a);
 }
-}
+
