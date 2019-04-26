@@ -17,3 +17,14 @@ function divide()
 {
   
 }
+
+function inc(num)
+{
+  
+}
+
+function dec(num)
+{
+
+}
+}
