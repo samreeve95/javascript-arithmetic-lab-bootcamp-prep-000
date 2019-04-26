@@ -30,6 +30,7 @@ function dec(a)
 
 function makeInt(a)
 {
+  if ( a = 0x2329)
   return parseInt(a);
 }
 
