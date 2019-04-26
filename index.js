@@ -1,30 +1,29 @@
 function add(a, b)
 {
-  
+  return a+b;
 }
 
 function subtract(a, b)
 {
-  
+  return a-b;
 }
 
 function multiply(a, b)
 {
-  
+  return a*b;
 }
 
 function divide(a, b)
 {
-  
+  return a/b;
 }
 
-function inc(num)
+function inc(a)
 {
-  
+  return a++;
 }
 
-function dec(num)
+function dec(a)
 {
-
-}
+  return a--;
 }
